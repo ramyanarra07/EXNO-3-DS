@@ -181,7 +181,6 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/f269bbe6-02f2-42bb-8d01-b1b79a88f7c9)
 
 # RESULT:
-        Thus the given data, Feature Encoding, Transformation process and save the data to a file
- was performed successfully.
+Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
 
        
